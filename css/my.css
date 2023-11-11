@@ -104,3 +104,7 @@ a:visited {
     color: white;
     padding: 25px;
 }
+
+.picture-subtitle{
+    font-size: 0.8em;
+}

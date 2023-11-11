@@ -1,0 +1,88 @@
+ @font-face {
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/Jura-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/Jura-Bold.ttf');
+}
+
+/* jura-regular - latin */
+@font-face {
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../fonts/jura-v24-latin-regular.woff2') format('woff2'), 
+         url('../fonts/jura-v24-latin-regular.woff') format('woff'), 
+         url('../fonts/Jura-Regular.ttf') format('truetype');
+  }
+  
+  /* jura-700 - latin */
+  /* @font-face {
+    font-family: 'Jura';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+         url('../fonts/jura-v24-latin-700.woff2') format('woff2'), 
+         url('../fonts/jura-v24-latin-700.woff') format('woff'), 
+         url('../fonts/Jura-Bold.ttf') format('truetype');
+  } */
+
+/* noto-sans-regular - latin */
+/* @font-face {
+    font-family: 'Noto Sans';
+    font-weight: 400;
+    src: url('../fonts/noto-sans-v27-latin-regular.woff2') format('woff2'), 
+         url('../fonts/noto-sans-v27-latin-regular.woff') format('woff'); 
+  } */
+  
+
+
+body{
+    font-family: 'Jura', sans-serif;
+    margin: 0;
+    font-weight: 400;
+}
+
+h1{
+    font-size: 6em;
+    /* font-weight: 700; */
+    color: white;
+    margin-top: 0px;
+}
+
+h2{
+    font-size: 3em;
+    /* font-weight: 700; */
+}
+
+.rectangle{
+    background-color: #9f0080;
+    border-bottom: 10px solid;
+}
+
+.title{
+    padding: 12%;
+    text-align: center;
+}
+
+.content{
+    text-align: center;
+    padding: 5%;
+}
+
+.content2{
+    text-align: center;
+    padding: 5%;
+    font-weight: 300;
+}
+
+.item{
+    padding-bottom: 5%;
+}

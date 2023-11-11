@@ -86,3 +86,21 @@ h2{
 .item{
     padding-bottom: 5%;
 }
+
+a:link{
+    color: rgb(170, 224, 224)
+}
+
+a:visited {
+    color: rgb(208, 186, 223)
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 0.8em;
+    background-color: #9f0080;
+    color: white;
+    padding: 25px;
+}

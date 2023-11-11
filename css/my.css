@@ -87,6 +87,7 @@ h2{
     padding-bottom: 5%;
 }
 
+
 a:link{
     color: rgb(170, 224, 224)
 }
@@ -103,4 +104,9 @@ a:visited {
     background-color: #9f0080;
     color: white;
     padding: 25px;
+}
+
+.picture-subtitle{
+    font-size: 0.8em;
+
 }

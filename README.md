@@ -11,7 +11,7 @@ To view the webpage, simply follow these steps:
 
 ## Development
 
-For the best developer experience, we recommend using Visual Studio Code. Simply open the folder containing the HTML file in Visual Studio Code.
+For the best developer experience, I recommend using Visual Studio Code. Simply open the folder containing the HTML file in Visual Studio Code.
 
 ## Support
 

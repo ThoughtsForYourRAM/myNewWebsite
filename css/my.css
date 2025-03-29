@@ -62,6 +62,10 @@ h2{
     /* font-weight: 700; */
 }
 
+h3{
+    color: white;
+}
+
 .rectangle{
     background-color: #9f0080;
     border-bottom: 10px solid;

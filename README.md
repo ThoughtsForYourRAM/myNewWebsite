@@ -17,3 +17,7 @@ For the best developer experience, we recommend using Visual Studio Code. Simply
 
 If you would like to learn how to create this template from scratch yourself, please watch the following play list: https://youtube.com/playlist?list=PLFWzAVNXHPwJ1DKPkgEUwjJl7ufbolAMK&si=Z1yWqQTLDi2pduzw
 If you need further assistance, feel free to leave a comment on the video in the play list that your struggling with and I will do my best to get back to you.
+
+## Jokes
+Why do Java developers wear glasses?
+Because they don't C#.

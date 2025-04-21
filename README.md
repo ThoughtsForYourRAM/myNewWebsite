@@ -1,6 +1,6 @@
 # My New Website
 
-This is a simple template webpage created with the intent to teach people HTML, CSS, and how to use Google Fonts. While the API is still referenced, it is currently not utilized as the page is now self-hosting the fonts (this is recommended if you intend to have users from the European Union, see https://youtu.be/JVsJgys0VCs for more details).
+This is a simple template webpage created with the intent to teach people HTML, CSS, and how to use Google Fonts. While the Google Font API is still referenced, it is not currently utilized as the page is now self-hosting the fonts (this is recommended if you intend to have users from the European Union, see https://youtu.be/JVsJgys0VCs for more details).
 
 ## Getting Started
 
